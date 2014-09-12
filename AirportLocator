@@ -1,0 +1,82 @@
+from geopy.geocoders import GoogleV3
+import time
+import csv
+import json
+
+def createListFromTSV(tsvFile):
+	'''This function takes a tab-delineated file (tsvFile) and returns a list of dictionaries.'''
+	with open(tsvFile,"rU") as f:
+		fileReader = csv.DictReader(f,delimiter='\t')
+#		print type(fileReader)
+		fileList = []
+		for line in fileReader:
+			fileList.append(line)
+		return fileList
+#		print fileList
+
+def createListFromCSV(csvFile):
+	with open(csvFile, "rU") as f:
+		fileReader = csv.DictReader(f)
+		fileList = []
+		for line in fileReader:
+			fileList.append(line)
+		return fileList
+
+def findAddressForAirport(**kwargs):
+	airportColumnName = kwargs.get('airportColumnName')
+	airportLocationColumnName = kwargs.get('airportLocationColumnName')
+	fileName = kwargs.get('fileName')
+	otherInfoColumns = kwargs.get('otherInfoColumns')
+	geolocator = GoogleV3()
+	if fileName[-4:]=='.csv':
+		fileList = createListFromCSV(fileName)
+	elif fileName[-4:]=='.txt':
+		fileList = createListFromTSV(fileName)
+		if fileList < 2:
+			print fileList
+	else:
+		print '''File type not recognized. Reformat to CSV 
+		and/or tab-delineated file and try again.'''
+	airportList = []
+	for item in fileList:
+		airportName = item.get(airportColumnName)
+		if 'airport' not in airportName.lower():
+			airportName = airportName+" Airport"
+		state = item.get(airportLocationColumnName)
+		allOtherInfo = {}
+		for column in otherInfoColumns:
+#			print "Column is: ",column
+			otherInfo = item.get(column)
+			allOtherInfo[column]=otherInfo
+		print allOtherInfo
+#			print "info in ",column," is: ",otherInfo
+#		print "Airport name and state are: ",airportName, state
+		geoQuery = airportName+" in "+state
+		print geoQuery
+		time.sleep(0.5)
+		try:
+			address, (latitude, longitude) = geolocator.geocode(geoQuery,exactly_one=True)
+		except:
+			print "[ERR] FAILED TO GET LOCATION FOR ", airportName
+		else:
+			result = { "type": "Feature", "geometry": {"type":"Point",
+			"coordinates":[longitude, latitude] },
+			"properties" : { "marker-color":"#3F3040",
+			"marker-symbol":"circle",
+			"name":airportName,
+			"address":address,
+			 "Other Information": allOtherInfo } }
+			airportList.append(result)
+	return airportList
+
+
+FAATestKwargsDict = { 'airportColumnName' : 'Event Airport',
+'airportLocationColumnName' : 'Event State',
+'fileName' : 'FAA_Test.csv',
+'otherInfoColumns' : ['AIDS Report Number','Local Event Date','Operator',
+'Total Injuries','Total Fatalities'] }
+
+airportList = findAddressForAirport(**FAATestKwargsDict)
+geo = { "type":"FeatureCollection", "features":airportList}
+with open("airportsList.json","w") as json_file:
+	json_file.write(json.dumps(geo,indent=4,sort_keys=True))

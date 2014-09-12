@@ -9,13 +9,11 @@
                 "type": "Point"
             }, 
             "properties": {
-                "Other Information": {
-                    "AIDS Report Number": "20101009046979I", 
-                    "Local Event Date": "9-Oct-10", 
-                    "Operator": "150TH AERO FLYING CLUB", 
-                    "Total Fatalities": "0", 
-                    "Total Injuries": "0"
-                }, 
+                "AIDS Report Number": "20101009046979I", 
+                "Local Event Date": "9-Oct-10", 
+                "Operator": "150TH AERO FLYING CLUB", 
+                "Total Fatalities": "0", 
+                "Total Injuries": "0", 
                 "address": "Martha's Vineyard Airport (MVY), 71 Airport Road, West Tisbury, MA 02568, USA", 
                 "marker-color": "#3F3040", 
                 "marker-symbol": "circle", 
@@ -32,13 +30,11 @@
                 "type": "Point"
             }, 
             "properties": {
-                "Other Information": {
-                    "AIDS Report Number": "20040815020829I", 
-                    "Local Event Date": "15-Aug-04", 
-                    "Operator": "A S I AIR CHARTER INC", 
-                    "Total Fatalities": "0", 
-                    "Total Injuries": "0"
-                }, 
+                "AIDS Report Number": "20040815020829I", 
+                "Local Event Date": "15-Aug-04", 
+                "Operator": "A S I AIR CHARTER INC", 
+                "Total Fatalities": "0", 
+                "Total Injuries": "0", 
                 "address": "Capital Region International airport, 4100 Capital City Boulevard, Lansing, MI 48906, USA", 
                 "marker-color": "#3F3040", 
                 "marker-symbol": "circle", 
@@ -55,40 +51,15 @@
                 "type": "Point"
             }, 
             "properties": {
-                "Other Information": {
-                    "AIDS Report Number": "20060512009759I", 
-                    "Local Event Date": "12-May-06", 
-                    "Operator": "A S I AIR CHARTER INC", 
-                    "Total Fatalities": "0", 
-                    "Total Injuries": "0"
-                }, 
+                "AIDS Report Number": "20060512009759I", 
+                "Local Event Date": "12-May-06", 
+                "Operator": "A S I AIR CHARTER INC", 
+                "Total Fatalities": "0", 
+                "Total Injuries": "0", 
                 "address": "Austin Straubel International Airport (GRB), 2077 Airport Drive, Green Bay, WI 54313, USA", 
                 "marker-color": "#3F3040", 
                 "marker-symbol": "circle", 
                 "name": "AUSTIN STRAUBEL INTL Airport"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.661251, 
-                    39.055222
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "Other Information": {
-                    "AIDS Report Number": "20101216054159I", 
-                    "Local Event Date": "16-Dec-10", 
-                    "Operator": "ABX AIR INC", 
-                    "Total Fatalities": "0", 
-                    "Total Injuries": "0"
-                }, 
-                "address": "Cincinnati/Northern Kentucky International Airport (CVG), 2939 Terminal Drive, Hebron, KY 41048, USA", 
-                "marker-color": "#3F3040", 
-                "marker-symbol": "circle", 
-                "name": "CINCINNATI/NORTHERN KENTUCKY INTL Airport"
             }, 
             "type": "Feature"
         }, 
@@ -101,17 +72,36 @@
                 "type": "Point"
             }, 
             "properties": {
-                "Other Information": {
-                    "AIDS Report Number": "20070825019769I", 
-                    "Local Event Date": "25-Aug-07", 
-                    "Operator": "ABX AIR INC", 
-                    "Total Fatalities": "0", 
-                    "Total Injuries": "0"
-                }, 
+                "AIDS Report Number": "20070825019769I", 
+                "Local Event Date": "25-Aug-07", 
+                "Operator": "ABX AIR INC", 
+                "Total Fatalities": "0", 
+                "Total Injuries": "0", 
                 "address": "Newark Liberty International Airport (EWR), 3 Brewster Road, Newark, NJ 07114, USA", 
                 "marker-color": "#3F3040", 
                 "marker-symbol": "circle", 
                 "name": "NEWARK LIBERTY INTL Airport"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.256693, 
+                    40.495999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "AIDS Report Number": "20010802019479I", 
+                "Local Event Date": "2-Aug-01", 
+                "Operator": "ABX AIR INC", 
+                "Total Fatalities": "0", 
+                "Total Injuries": "0", 
+                "address": "Pittsburgh International Airport (PIT), 1000 Airport Boulevard, Pittsburgh, PA 15231, USA", 
+                "marker-color": "#3F3040", 
+                "marker-symbol": "circle", 
+                "name": "PITTSBURGH INTL Airport"
             }, 
             "type": "Feature"
         }, 
@@ -124,13 +114,11 @@
                 "type": "Point"
             }, 
             "properties": {
-                "Other Information": {
-                    "AIDS Report Number": "20081221854929I", 
-                    "Local Event Date": "21-Dec-08", 
-                    "Operator": "AER LINGUS LIMITED", 
-                    "Total Fatalities": "0", 
-                    "Total Injuries": "0"
-                }, 
+                "AIDS Report Number": "20081221854929I", 
+                "Local Event Date": "21-Dec-08", 
+                "Operator": "AER LINGUS LIMITED", 
+                "Total Fatalities": "0", 
+                "Total Injuries": "0", 
                 "address": "Chicago O'Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666, USA", 
                 "marker-color": "#3F3040", 
                 "marker-symbol": "circle", 
@@ -147,13 +135,11 @@
                 "type": "Point"
             }, 
             "properties": {
-                "Other Information": {
-                    "AIDS Report Number": "20030219002549I", 
-                    "Local Event Date": "19-Feb-03", 
-                    "Operator": "AER LINGUS LIMITED", 
-                    "Total Fatalities": "0", 
-                    "Total Injuries": "0"
-                }, 
+                "AIDS Report Number": "20030219002549I", 
+                "Local Event Date": "19-Feb-03", 
+                "Operator": "AER LINGUS LIMITED", 
+                "Total Fatalities": "0", 
+                "Total Injuries": "0", 
                 "address": "Boston Logan International Airport (BOS), 1 Harborside Dr, Boston, MA 02128, USA", 
                 "marker-color": "#3F3040", 
                 "marker-symbol": "circle", 

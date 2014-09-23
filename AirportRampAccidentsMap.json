@@ -1,0 +1,1846 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.9995375, 
+                    -2.9086971
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Unknown or unnamed airport", 
+                "2. Address": "GM Laboratorio Cl\u00ednico, Yamancay Los Fresnos, Cuenca, Ecuador", 
+                "3. Accident Date": "3/20/01", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: FTW01LA081", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20010327X00654&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.17820999999999, 
+                    40.68987
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Newark Liberty International Airport", 
+                "2. Address": "Newark Liberty International Airport (EWR), 3 Brewster Road, Newark, NJ 07114, USA", 
+                "3. Accident Date": "5/17/01", 
+                "4. Victim's name": "Roberto Bermudez", 
+                "5. Company": "Continental Airlines", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 304503113; OSHA Accident Id: 200022374", 
+                "9. Source URL": "No link; see list of full-text articles ", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.63777759999999, 
+                    42.11421070000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Unknown or unnamed airport", 
+                "2. Address": "Schoolcraft, MI 49087, USA", 
+                "3. Accident Date": "5/22/01", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: CHI01LA145", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20010525X01016&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.9073214, 
+                    41.9741625
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Chicago O'Hare Airport", 
+                "2. Address": "Chicago O'Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666, USA", 
+                "3. Accident Date": "7/5/01", 
+                "5. Company": "FEDERAL EXPRESS CORPORATION", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident Id: 201261013; OSHA Inspection Id: 304585367", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=201261013", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.9000751, 
+                    32.1656221
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Unknown (Camilla-Mitchell County Airport?)", 
+                "2. Address": "Georgia, USA", 
+                "3. Accident Date": "7/28/01", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: MIA01LA199", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20010801X01572&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04023149999999, 
+                    38.851242
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Washington Ronald Reagan National Airport", 
+                "2. Address": "Ronald Reagan Washington National Airport (DCA), Arlington, VA 22202, USA", 
+                "3. Accident Date": "8/5/01", 
+                "4. Victim's name": "married", 
+                "5. Company": "US Airways Express/Piedmont", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: DCA01MA056", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief2.aspx?ev_id=20010904X01867&ntsbno=DCA01MA056&akey=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.17820999999999, 
+                    40.68987
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Newark Liberty International Airport", 
+                "2. Address": "Newark Liberty International Airport (EWR), 3 Brewster Road, Newark, NJ 07114, USA", 
+                "3. Accident Date": "8/17/01", 
+                "4. Victim's name": "not identified", 
+                "5. Company": "International Total Services of Newark", 
+                "6. Investigated by": "", 
+                "7. Unique ID": "", 
+                "9. Source URL": "No link; see list of full-text articles ", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.6737376, 
+                    39.8560963
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Denver International Airport", 
+                "2. Address": "Denver International Airport, 8500 Pe\u00f1a Boulevard, Denver, CO 80249, USA", 
+                "3. Accident Date": "9/5/01", 
+                "4. Victim's name": "Joao Rodrigues", 
+                "5. Company": "Aircraft Service International Group", 
+                "6. Investigated by": "NTSB, OSHA", 
+                "7. Unique ID": "NTSB Accident ID: DEN01FA157; OSHA Inspection Id: 303679203; OSHA Accident Id: 201570918", 
+                "9. Source URL": "Full text articles, also OSHA: https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=201570918", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.7369231, 
+                    38.175662
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Louisville International Airport", 
+                "2. Address": "Louisville International Airport, 600 Terminal Drive, Louisville, KY 40209, USA", 
+                "3. Accident Date": "10/1/01", 
+                "5. Company": "Regional Airport Authority of Louisville and Jeffers", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 304296049, OSHA Accident Id: 201856085", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=201856085", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6691898, 
+                    41.5225154
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Burke Lakefront Airport", 
+                "2. Address": "Burke Lakefront Airport (BKL), 1501 North Marginal Road, Cleveland, OH 44114, USA", 
+                "3. Accident Date": "1/28/03", 
+                "5. Company": "Federal Reserve ", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: NYC03LA046", 
+                "9. Source URL": "http://www.19actionnews.com/Global/story.asp?S=1102051", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.333697, 
+                    37.507462
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Richmond International Airport", 
+                "2. Address": "Richmond International Airport (RIC), 1 Richard E Byrd Terminal Drive, Richmond, VA 23250, USA", 
+                "3. Accident Date": "3/14/03", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: IAD03LA036", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20030320X00364&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0403352, 
+                    32.8998091
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Dallas/Fort Worth International Airport", 
+                "2. Address": "Dallas/Fort Worth International Airport, 3200 East Airfield Drive, DFW Airport, TX 75261, USA", 
+                "3. Accident Date": "3/24/03", 
+                "5. Company": "Continental Airlines", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 306200569; OSHA Accident Id: 200711869", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=200711869", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.9380579, 
+                    35.2569588
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Kingman Airport", 
+                "2. Address": "Kingman Airport (IGM), 7000 Flightline Drive, Kingman, AZ 86401, USA", 
+                "3. Accident Date": "6/26/03", 
+                "5. Company": "Kingman Airline Services", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident Id: 201989399; OSHA Inspection Id: 306869603", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=201989399", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.205764, 
+                    36.89867
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Norfolk International Airport", 
+                "2. Address": "Norfolk International Airport (ORF), 2200 Norview Ave, Norfolk, VA 23518, USA", 
+                "3. Accident Date": "9/12/03", 
+                "4. Victim's name": "Denise Bogucki", 
+                "5. Company": "Northwest Airlines", 
+                "6. Investigated by": "NTSB, OSHA", 
+                "7. Unique ID": "NTSB Accident Id: NYC03LA199; OSHA Inspection Id: 306712894; OSHA Accident Id: 200921211", 
+                "9. Source URL": "http://www.highbeam.com/doc/1G1-110217911.html", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.960559, 
+                    38.3754016
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Nut Tree Airport", 
+                "2. Address": "Nut Tree Airport (VCB), 301 County Airport Road, Vacaville, CA 95688, USA", 
+                "3. Accident Date": "12/26/03", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: LAX04LA089", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20040113X00055&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.77813909999999, 
+                    40.6413111
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "John F. Kennedy International Airport", 
+                "2. Address": "John F. Kennedy International Airport (JFK), Jamaica, NY 11430, USA", 
+                "3. Accident Date": "1/14/04", 
+                "5. Company": "Worldwide Flight Services", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 303536312; OSHA Accident Id: 200830784", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=200830784", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5111, 
+                    44.2605
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Outagamie Regional Airport", 
+                "2. Address": "Outagamie County Regional Airport (ATW), W6390 Challenger Drive, Appleton, WI 54914, USA", 
+                "3. Accident Date": "4/4/04", 
+                "5. Company": "Gulfstream Aerospace", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 306795279; OSHA Accident Id: 200650919", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=200650919", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.3884961, 
+                    33.3267997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Unknown or unnamed airport", 
+                "2. Address": "Eatonton, GA 31024, USA", 
+                "3. Accident Date": "4/7/04", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: ATL04LA094", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20040415X00470&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.9073214, 
+                    41.9741625
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Chicago O'Hare Airport", 
+                "2. Address": "Chicago O'Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666, USA", 
+                "3. Accident Date": "7/29/04", 
+                "4. Victim's name": "Alonzo Humphries", 
+                "5. Company": "American Airlines dba American Eagle Airlines", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident ID: 201261690; Inspection ID: 308003136", 
+                "9. Source URL": "http://www.upi.com/Top_News/2004/07/30/Baggage-cart-driver-killed-at-airport/UPI-34701091199807/", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.5289252, 
+                    39.1222533
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Grand Junction Regional Airport", 
+                "2. Address": "Grand Junction Regional Airport (GJT), 2828 Walker Field Drive, Grand Junction, CO 81506, USA", 
+                "3. Accident Date": "10/12/04", 
+                "5. Company": "MONUMENT AIRCRAFT SERVICES", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 307525782; OSHA Accident Id: 201572732", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=201572732", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0095602, 
+                    42.3656132
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Logan International Airport", 
+                "2. Address": "Boston Logan International Airport (BOS), 1 Harborside Dr, Boston, MA 02128, USA", 
+                "3. Accident Date": "12/7/04", 
+                "4. Victim's name": "Henry Marshall", 
+                "5. Company": "Delta", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident ID: 200461804; OSHA Inspection ID: 308103910", 
+                "9. Source URL": "http://www.accessnorthga.com/detail-pf.php?n=155535", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.76088, 
+                    32.9544719
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Casa Grande Municipal Airport", 
+                "2. Address": "Casa Grande Municipal Airport (CGZ), 3225 North Lear Avenue, Casa Grande, AZ 85122, USA", 
+                "3. Accident Date": "1/18/05", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: LAX05LA073", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20050224X00224&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.68387299999999, 
+                    41.928687
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Bradley International Airport", 
+                "2. Address": "Bradley International Airport (BDL), Schoephoester Road, Windsor Locks, CT 06096, USA", 
+                "3. Accident Date": "1/30/05", 
+                "5. Company": "U.S. Airports Air Cargo, Llc", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 308269935; OSHA Accident Id: 200082147", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=200082147", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.2955952, 
+                    39.7168593
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Indianapolis International Airport", 
+                "2. Address": "Indianapolis International Airport (IND), 7800 Col. H. Weir Cook Memorial Drive, Indianapolis, IN 46241, USA", 
+                "3. Accident Date": "3/29/05", 
+                "5. Company": "GSRX", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 308200690; OSHA Accident Id: 200994044", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=200994044", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04023149999999, 
+                    38.851242
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Washington Ronald Reagan National Airport", 
+                "2. Address": "Ronald Reagan Washington National Airport (DCA), Arlington, VA 22202, USA", 
+                "3. Accident Date": "6/7/05", 
+                "4. Victim's name": "Yolanda Corbett", 
+                "5. Company": "Mid Atlantic Airways, a regional carrier owned by US Airways", 
+                "6. Investigated by": "NTSB, OSHA", 
+                "7. Unique ID": "NTSB Accident Id: DCA05MA070; OSHA Inspection Id: 309075984; OSHA Accident Id: 900621", 
+                "9. Source URL": "http://www.washingtonpost.com/wp-dyn/content/article/2005/06/07/AR2005060700476.html", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.2424229, 
+                    39.8743959
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Philadelphia International Airport", 
+                "2. Address": "Philadelphia International Airport (PHL), 8000 Essington Avenue, Philadelphia, PA 19153, USA", 
+                "3. Accident Date": "8/8/05", 
+                "5. Company": "SOUTHWEST AIRLINES CO.", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 116024167; OSHA Accident Id: 202004669", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=202004669", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.40853, 
+                    33.9415889
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Los Angeles International Airport", 
+                "2. Address": "Los Angeles International Airport, 1 World Way, Los Angeles, CA 90045, USA", 
+                "3. Accident Date": "12/19/05", 
+                "5. Company": "GLOBE GROUND NORTH AMERICA", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 126062553; OSHA Accident Id: 201167210", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=201167210", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.394992, 
+                    31.798853
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "El Paso International Airport", 
+                "2. Address": "El Paso International Airport (ELP), 6701 Convair Road, El Paso, TX 79925, USA", 
+                "3. Accident Date": "1/16/06", 
+                "4. Victim's name": "Donald Gene Buchanan", 
+                "5. Company": "Continental Airlines", 
+                "6. Investigated by": "NTSB, OSHA", 
+                "7. Unique ID": "NTSB Accident Id: DFW06FA056; OSHA Accident Id: 202126447; OSHA Inspection Id: 307246116", 
+                "9. Source URL": "http://www.elpasotimes.com/news/ci_8580219", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.3553842, 
+                    42.2161722
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Detroit Metropolitan Wayne County Airport", 
+                "2. Address": "Detroit Metropolitan Wayne County Airport (DTW), Detroit, MI 48242, USA", 
+                "3. Accident Date": "2/19/06", 
+                "4. Victim's name": "Eric Michniewicz", 
+                "5. Company": "Comair", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident ID: 201391224; OSHA Inspection ID: 308845551", 
+                "9. Source URL": "http://webcache.googleusercontent.com/search?q=cache:NU5GCaRVhw8J:www.system-safety.com/Aviation%2520HF%2520News/Volume%25202%2520Issue%25209.htm+&cd=2&hl=en&ct=clnk&gl=us", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.77340389999999, 
+                    34.9446733
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Forrest City Municipal Airport", 
+                "2. Address": "Forrest City Municipal Airport (FCY), 1296 State Highway 980, Forrest City, AR 72335, USA", 
+                "3. Accident Date": "2/24/06", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: DFW06LA074", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20060306X00266&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.40853, 
+                    33.9415889
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Los Angeles International Airport", 
+                "2. Address": "Los Angeles International Airport, 1 World Way, Los Angeles, CA 90045, USA", 
+                "3. Accident Date": "5/15/06", 
+                "5. Company": "Menzies Aviation", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 126161280; OSHA Accident Id: 201167822", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/establishment.inspection_detail?id=126161280", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.2424229, 
+                    39.8743959
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Philadelphia International Airport", 
+                "2. Address": "Philadelphia International Airport (PHL), 8000 Essington Avenue, Philadelphia, PA 19153, USA", 
+                "3. Accident Date": "5/26/06", 
+                "5. Company": "Northwest Airlines", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 308993732; OSHA Accident Id: 202004719", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=202004719", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.121942, 
+                    37.6589209
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Hayward Executive Airport", 
+                "2. Address": "Hayward Executive Airport (HWD), 20301 Skywest Drive, Hayward, CA 94541, USA", 
+                "3. Accident Date": "6/25/06", 
+                "4. Victim's name": "David Hennington", 
+                "5. Company": "Aerial Advertising Services", 
+                "6. Investigated by": "NTSB and FAA", 
+                "7. Unique ID": "NTSB Accident Id: LAX06LA213; FAA: 20060625016259I", 
+                "9. Source URL": "http://www.sfgate.com/bayarea/article/HAYWARD-A-death-first-then-a-plane-crash-Odd-2493932.php", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.8700901, 
+                    34.5199402
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Private airport", 
+                "2. Address": "New Mexico, USA", 
+                "3. Accident Date": "7/22/06", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: DEN06LA103; Event Id: 20060725X01002", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20060725X01002&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.9073214, 
+                    41.9741625
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Chicago O'Hare Airport", 
+                "2. Address": "Chicago O'Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666, USA", 
+                "3. Accident Date": "9/12/06", 
+                "4. Victim's name": "John F. Keane", 
+                "5. Company": "DHL", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 310355078; OSHA Accident Id: 201262052", 
+                "9. Source URL": "http://articles.chicagotribune.com/2006-09-14/news/0609140228_1_dhl-john-f-keane-ramp", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.9073214, 
+                    41.9741625
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Chicago O'Hare Airport", 
+                "2. Address": "Chicago O'Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666, USA", 
+                "3. Accident Date": "12/30/06", 
+                "4. Victim's name": "Erika Debeck", 
+                "5. Company": "", 
+                "6. Investigated by": "", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://weeklytoll.blogspot.com/2007/02/weekly-toll-death-in-american-workplace.html; http://www.saukvalley.com/articles/2006/12/30/news/state/95586831864689.txt", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.3553842, 
+                    42.2161722
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Detroit Metropolitan Airport", 
+                "2. Address": "Detroit Metropolitan Wayne County Airport (DTW), Detroit, MI 48242, USA", 
+                "3. Accident Date": "4/9/07", 
+                "4. Victim's name": "Dorian Powell", 
+                "5. Company": "Aircraft Service International Group", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident Id: 201391513; OSHA Inspection Activity NR: 119636322", 
+                "9. Source URL": "http://archives.californiaaviation.org/airport/msg40569.html", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.2217719, 
+                    39.90252419999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Dayton International Airport", 
+                "2. Address": "Dayton International Airport (DAY), 3600 Terminal Drive, Dayton, OH 45377, USA", 
+                "3. Accident Date": "5/17/07", 
+                "4. Victim's name": "Catrina Coffman", 
+                "5. Company": "Pinnacle Airlines", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 310889290; OSHA Accident Id: 201955069", 
+                "9. Source URL": "http://www.whio.com//news/news/woman-identified-in-fatal-accident-at-dayton-inter/nHfGm/", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.17820999999999, 
+                    40.68987
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Newark Liberty International Airport", 
+                "2. Address": "Newark Liberty International Airport (EWR), 3 Brewster Road, Newark, NJ 07114, USA", 
+                "3. Accident Date": "5/29/07", 
+                "4. Victim's name": "Timothy Gallagher", 
+                "5. Company": "victim was employee of Worldwide Flight Services, equipment that fell on him belonged Eva Airlines", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident Id: 200023323; OSHA Inspection Id: 311058564", 
+                "9. Source URL": "http://blog.nj.com/ledgerupdates/2007/05/cargo_worker_killed_at_newark.html", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3766431, 
+                    34.6588395
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Tunica Airport", 
+                "2. Address": "Tunica Air Inc. (UTM), 1115 Fish Lake Road, Tunica, MS 38676, USA", 
+                "3. Accident Date": "7/10/07", 
+                "4. Victim's name": "Alan Simpson", 
+                "5. Company": "Sky King Incorporated", 
+                "6. Investigated by": "", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://www.wmcactionnews5.com/story/6834297/airline-employee-dies-in-accident-at-tunica-airport", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.7879963, 
+                    35.88007899999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Raleigh-Durham International Airport", 
+                "2. Address": "Raleigh-Durham International Airport, 2400 John Brantley Boulevard, Morrisville, NC 27560, USA", 
+                "3. Accident Date": "7/31/07", 
+                "4. Victim's name": "Lufuluabo Kalonji", 
+                "5. Company": "American Eagle, a subsidiary of AMR Corporation (which has since merged with US Airways Group to form American Airlines Group", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 311336929; OSHA Accident Id: 200356491", 
+                "9. Source URL": "No link; see list of full-text articles", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.9240125, 
+                    32.4754139
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "COLORADO CITY Airport", 
+                "2. Address": "Colorado City Airport, Colorado City, TX 79512, USA", 
+                "3. Accident Date": "8/24/07", 
+                "5. Company": "", 
+                "6. Investigated by": "FAA", 
+                "7. Unique ID": "FAA AIDS Report Id: 20070824020479I", 
+                "9. Source URL": "http://www.asias.faa.gov/pls/apex/f?p=100:18:0::NO::AP_BRIEF_RPT_VAR:20070824020479I", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.389979, 
+                    37.615223
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "San Francisco International Airport", 
+                "2. Address": "San Francisco International Airport (SFO), San Francisco, CA 94128, USA", 
+                "3. Accident Date": "10/5/07", 
+                "5. Company": "MENZIES AVIATION", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident Id: 201126422; Inspection Id: 310092861", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=201126422", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.3752118, 
+                    36.1795479
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Moore-Murrell Airport", 
+                "2. Address": "Moore-Murrell Airport (MOR), 5233 Old Highway 11E, Morristown, TN 37814, USA", 
+                "3. Accident Date": "11/9/07", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: NYC08LA028; Event Id: 20071227X01994", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief2.aspx?ev_id=20071227X01994&ntsbno=NYC08LA028&akey=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.6427695, 
+                    35.530683
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Wiley Post Airport", 
+                "2. Address": "Wiley Post Airport (PWA), 5915 Philip J Rhoads Avenue, Bethany, OK 73008, USA", 
+                "3. Accident Date": "1/3/08", 
+                "4. Victim's name": "Early 20s?", 
+                "5. Company": "Atlantic Aviation", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident ID: DFW08LA055", 
+                "9. Source URL": "http://newsok.com/aviation-employee-struck-killed-by-propeller/article/3188421", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.27561399999999, 
+                    25.796549
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Miami International Airport", 
+                "2. Address": "Miami International Airport (MIA), 2100 Northwest 42nd Avenue, Miami, FL 33126, USA", 
+                "3. Accident Date": "1/18/08", 
+                "5. Company": "Prime Airport Services, Inc.", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 311088579; OSHA Accident Id: 200677169", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=200677169", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.44403199999999, 
+                    33.639975
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Hartsfield-Jackson International Airport", 
+                "2. Address": "Hartsfield-Jackson Atlanta International Airport, 6000 N Terminal Pkwy, Atlanta, GA 30320, USA", 
+                "3. Accident Date": "1/31/08", 
+                "4. Victim's name": "Victor Sims", 
+                "5. Company": "General Aviation Terminal, an AirTran Airways subcontractor", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://privateofficerbreakingnews.blogspot.com/2008/02/atlanta-airport-worker-killed-on-tarmac.html; http://www.aviationtoday.com/regions/ca/Safety-News-in-Brief_19203.html#.U9K9aifN5dY", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.443336, 
+                    30.570833
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Taylor Municipal Airport", 
+                "2. Address": "Taylor Municipal Airport, Taylor, TX 76574, USA", 
+                "3. Accident Date": "4/10/08", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: DFW08LA097; Event id: 20080414X00469", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief2.aspx?ev_id=20080414X00469&ntsbno=DFW08LA097&akey=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5448237, 
+                    43.4941611
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Unknown or unnamed airport", 
+                "2. Address": "Mayville, WI, USA", 
+                "3. Accident Date": "7/24/08", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: CHI08LA211, Event id: 20080808X01192", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief2.aspx?ev_id=20080808X01192&ntsbno=CHI08LA211&akey=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.2424229, 
+                    39.8743959
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Philadelphia International Airport", 
+                "2. Address": "Philadelphia International Airport (PHL), 8000 Essington Avenue, Philadelphia, PA 19153, USA", 
+                "3. Accident Date": "8/5/08", 
+                "5. Company": "US AIRWAYS", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 310722731; OSHA Accident Id: 202005179", 
+                "9. Source URL": "", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.7609896, 
+                    34.8697395
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Unknown or unnamed airport", 
+                "2. Address": "Sedona, AZ, USA", 
+                "3. Accident Date": "10/13/08", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident id: WPR09TA012; Event Id: 20081014X22933", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief2.aspx?ev_id=20081014X22933&ntsbno=WPR09TA012&akey=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.558334, 
+                    37.367779
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Atwater/Castle Airport", 
+                "2. Address": "Castle AIRPORT-MER (MER), Atwater, CA 95301, USA", 
+                "3. Accident Date": "11/15/08", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: WPR09LA040; Event Id: 20081117X33612", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief2.aspx?ev_id=20081117X33612&ntsbno=WPR09LA040&akey=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.542586, 
+                    34.3916641
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Unknown or unnamed airport", 
+                "2. Address": "Santa Clarita, CA, USA", 
+                "3. Accident Date": "12/17/08", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: WPR09LA057; Event Id: 20081217X81906", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20081217X81906&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.339722, 
+                    33.80333299999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Zamperini Field Airport", 
+                "2. Address": "Zamperini Field, Torrance Airport (TOA), Torrance, CA 90505, USA", 
+                "3. Accident Date": "2/26/09", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: WPR09LA130; Event Id: 20090227X25653", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief2.aspx?ev_id=20090227X25653&ntsbno=WPR09LA130&akey=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.27561399999999, 
+                    25.796549
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Miami International Airport", 
+                "2. Address": "Miami International Airport (MIA), 2100 Northwest 42nd Avenue, Miami, FL 33126, USA", 
+                "3. Accident Date": "5/19/09", 
+                "4. Victim's name": "Thomas \"Smiley\" Jukovich", 
+                "5. Company": "American Airlines ", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection ID: 313102154; OSHA Accident Id: 200677763", 
+                "9. Source URL": "http://avstop.com/news2/osha_cites_american_airlines_over_death_of_worker_at_mia.htm", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.06437539999999, 
+                    29.6691863
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "La Porte Municipal Airport", 
+                "2. Address": "La Porte Municipal Airport, La Porte, TX 77571, USA", 
+                "3. Accident Date": "11/4/09", 
+                "5. Company": "K&W AVIATION", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident Id: 201925013; Inspection Id: 312920028", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=201925013", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.21657510000001, 
+                    45.13178610000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Anoka County-Blaine Airport", 
+                "2. Address": "Anoka County-Blaine Airport, 8891 Airport Road Northeast, Blaine, MN 55449, USA", 
+                "3. Accident Date": "5/21/10", 
+                "4. Victim's name": "Patrick J. Marzitelli", 
+                "5. Company": "Cirrus Flight Operations", 
+                "6. Investigated by": "", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://it.tmcnet.com/news/2010/05/25/4808859.htm", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9351805, 
+                    36.1043671
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Piedmont Triad International Airport", 
+                "2. Address": "Piedmont Triad International Airport (GSO), 1000 A Ted Johnson Pkwy, Greensboro, NC 27409, USA", 
+                "3. Accident Date": "5/28/10", 
+                "5. Company": "Triad International Maintenance Corporation", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 314619925; OSHA Accident Id: 200074391", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=200074391", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.33641279999999, 
+                    43.1390659
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Dane County Regional Airport", 
+                "2. Address": "Dane County Regional Airport (MSN), 4000 International Ln, Madison, WI 53704, USA", 
+                "3. Accident Date": "6/3/10", 
+                "5. Company": "Delta Airlines", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 313133902; OSHA Accident Id: 200802395", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=200802395", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.20311099999999, 
+                    44.881234
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Minneapolis-St. Paul Airport", 
+                "2. Address": "Minneapolis\u2212Saint Paul International Airport (MSP), 4300 Glumack Drive, Saint Paul, MN 55111, USA", 
+                "3. Accident Date": "6/15/10", 
+                "4. Victim's name": "Jesse Paul Stygar", 
+                "5. Company": "Delta Airlines", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident ID: 200515062; OSHA Inspection ID: 314597311", 
+                "9. Source URL": "http://blogs.citypages.com/blotter/2010/06/delta_mechanics.php", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.44403199999999, 
+                    33.639975
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Hartsfield-Jackson Atlanta International Airport", 
+                "2. Address": "Hartsfield-Jackson Atlanta International Airport, 6000 N Terminal Pkwy, Atlanta, GA 30320, USA", 
+                "3. Accident Date": "8/18/10", 
+                "5. Company": "Delta", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 314636713; OSHA Accident Id: 200203552", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=202004719", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.3824374, 
+                    42.4072107
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Beverly Municipal Airport", 
+                "2. Address": "Massachusetts, USA", 
+                "3. Accident Date": "8/27/10", 
+                "4. Victim's name": "Michael Costales", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: ERA10LA446", 
+                "9. Source URL": "http://avstop.com/news_august_2010/flight_instructor_killed_by_moving_propeller_at_beverly_airport.htm", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.6587958, 
+                    41.5341333
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Des Moines Airport", 
+                "2. Address": "Des Moines International Airport (DSM), 5800 Fleur Drive, Des Moines, IA 50321, USA", 
+                "3. Accident Date": "9/15/10", 
+                "4. Victim's name": "Daniel Raber", 
+                "5. Company": "UPS", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 314940370; OSHA Accident Id: 200533669", 
+                "9. Source URL": "http://www.heartlandconnection.com/news/story.aspx?id=512461#.U_IdhfldWSo", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.6049554, 
+                    34.5946597
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "El Mirage Airport", 
+                "2. Address": "El Mirage Airport Road, Adelanto, CA 92301, USA", 
+                "3. Accident Date": "9/20/10", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: WPR10LA462; Event Id: 20100920X21917", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief2.aspx?ev_id=20100920X21917&ntsbno=WPR10LA462&akey=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.980673, 
+                    40.785596
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Salt Lake City Airport", 
+                "2. Address": "Salt Lake City International Airport, 776 North Terminal Drive, Salt Lake City, UT 84122, USA", 
+                "3. Accident Date": "9/30/10", 
+                "5. Company": "SOUTHWEST AIRLINES CO", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 314191529; OSHA Accident Id: 201562535", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=201562535", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.44771200000001, 
+                    38.953381
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Washington Dulles International Airport", 
+                "2. Address": "Dulles International Airport, Dulles, VA 20166, USA", 
+                "3. Accident Date": "4/1/11", 
+                "4. Victim's name": "Eduardo Tlatempa", 
+                "5. Company": "", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident ID: 200922573; OSHA Inspection ID: 315456699", 
+                "9. Source URL": "1) http://www.dailymail.co.uk/news/article-1373649/Baggage-handler-Eduardo-Tlatempa-dies-falling-20ft-planes-scissor-lift.html; 2) http://weeklytoll.blogspot.com/2011/04/weekly-toll-death-in-american-workplace_08.html", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.6167043, 
+                    35.0486654
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Albuquerque International Sunport Airport", 
+                "2. Address": "Albuquerque International Sunport (ABQ), 2200 Sunport Blvd, Albuquerque, NM 87106, USA", 
+                "3. Accident Date": "7/29/11", 
+                "5. Company": "American Airlines", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 315510453; OSHA Accident Id: 200041861", 
+                "9. Source URL": "https://www.osha.gov/pls/imis/accidentsearch.accident_detail?id=200041861", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.44403199999999, 
+                    33.639975
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Hartsfield-Jackson International Airport", 
+                "2. Address": "Hartsfield-Jackson Atlanta International Airport, 6000 N Terminal Pkwy, Atlanta, GA 30320, USA", 
+                "3. Accident Date": "8/2/11", 
+                "4. Victim's name": "Eric Lee", 
+                "5. Company": "Estes Enterprises", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection ID: 314643933", 
+                "9. Source URL": "http://www.cbs46.com/story/15196988/airport-worker-trapped-under-lift-dies-at-hartsfield-jackson", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.3430083, 
+                    38.9042925
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Lincoln Regional Airport", 
+                "2. Address": "Lincoln Regional Airport (LHM), 1480 Flight Line Drive, Lincoln, CA 95648, USA", 
+                "3. Accident Date": "8/18/11", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: WPR11LA416; Event Id: 20110830X31855", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief2.aspx?ev_id=20110830X31855&ntsbno=WPR11LA416&akey=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.17820999999999, 
+                    40.68987
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Newark Liberty International Airport", 
+                "2. Address": "Newark Liberty International Airport (EWR), 3 Brewster Road, Newark, NJ 07114, USA", 
+                "3. Accident Date": "12/16/11", 
+                "4. Victim's name": "Claude Pile", 
+                "5. Company": "Air Serv", 
+                "6. Investigated by": "OSHA, Port Authority Police", 
+                "7. Unique ID": "OSHA Inspection Id: 315641977; OSHA Accident Id: 101312445", 
+                "9. Source URL": "http://www.nj.com/news/index.ssf/2011/12/irvington_man_run_over_killed.html", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.44771200000001, 
+                    38.953381
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Washington Dulles International Airport", 
+                "2. Address": "Dulles International Airport, Dulles, VA 20166, USA", 
+                "3. Accident Date": "1/26/12", 
+                "4. Victim's name": "unnamed", 
+                "5. Company": "Southwest Airlines", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Accident ID: 200922649; Inspection ID: 316313162", 
+                "9. Source URL": "http://www.cbsnews.com/news/worker-dies-in-tarmac-crash-at-dulles-airport/", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.9713569, 
+                    32.8255715
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Gillespie Field Airport", 
+                "2. Address": "Gillespie Field, 1960 Joe Crosson Drive, El Cajon, CA 92020, USA", 
+                "3. Accident Date": "1/30/12", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: WPR12LA085; Event Id: 20120130X33824", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief2.aspx?ev_id=20120130X33824&ntsbno=WPR12LA085&akey=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.0077881, 
+                    33.4372686
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Phoenix Sky Harbor International Airport", 
+                "2. Address": "Phoenix Sky Harbor International Airport, 3400 East Sky Harbor Boulevard, Phoenix, AZ 85034, USA", 
+                "3. Accident Date": "2/17/12", 
+                "4. Victim's name": "Robert Demarco", 
+                "5. Company": "US Airways", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection ID: 316395573, accident id: 202561411", 
+                "9. Source URL": "http://www.nydailynews.com/news/national/airways-hit-21-000-fines-baggage-worker-crushed-conveyor-belt-article-1.1161930", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0403352, 
+                    32.8998091
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Dallas/Fort Worth International Airport", 
+                "2. Address": "Dallas/Fort Worth International Airport, 3200 East Airfield Drive, DFW Airport, TX 75261, USA", 
+                "3. Accident Date": "3/18/12", 
+                "4. Victim's name": "Faustino Delapaz", 
+                "5. Company": "Sky Chefs", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 316045699; OSHA Accident Id: 200714343", 
+                "9. Source URL": "http://airnation.net/2012/03/20/catering-worker-killed-dfw/", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8739659, 
+                    40.7769271
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "La Guardia Airport", 
+                "2. Address": "LaGuardia Airport (LGA), Queens, NY 11371, USA", 
+                "3. Accident Date": "10/13/12", 
+                "4. Victim's name": "Ruben Dario Sanchez", 
+                "5. Company": "Air Serv ", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "OSHA Inspection Id: 684818.015; OSHA Accident Id: Erroneous? (614570)", 
+                "9. Source URL": "http://www.nydailynews.com/new-york/airport-worker-killed-job-children-left-family-article-1.1591586", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.300497, 
+                    47.44443
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Seattle-Tacoma International Airport", 
+                "2. Address": "Seattle-Tacoma International Airport (SEA), 17801 International Boulevard, Seattle, WA 98158, USA", 
+                "3. Accident Date": "4/23/13", 
+                "4. Victim's name": "Ayenachew Tadesse", 
+                "5. Company": "PrimeFlight ", 
+                "6. Investigated by": "", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://itsourairport.org/2013/05/community-mourns-workplace-death-of-sea-tac-worker-ayenachew-tadesse/; http://www.oregonlive.com/pacific-northwest-news/index.ssf/2013/04/sea-tac_airport_worker_dies_af.html; http://seattletimes.com/html/localnews/2020853838_apwaairportworkerdeath.html", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0095602, 
+                    42.3656132
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Logan International Airport", 
+                "2. Address": "Boston Logan International Airport (BOS), 1 Harborside Dr, Boston, MA 02128, USA", 
+                "3. Accident Date": "12/30/13", 
+                "4. Victim's name": "Herbert Upton", 
+                "5. Company": "Signature Flight Support", 
+                "6. Investigated by": "", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://www.myfoxboston.com/story/24331466/2013/12/30/person-killed-on-tarmac-at-logan-airport", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.40853, 
+                    33.9415889
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Los Angeles International Airport", 
+                "2. Address": "Los Angeles International Airport, 1 World Way, Los Angeles, CA 90045, USA", 
+                "3. Accident Date": "2/21/14", 
+                "4. Victim's name": "Cesar Valenzuela", 
+                "5. Company": "Menzies Aviation", 
+                "6. Investigated by": "OSHA", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://www.dailybreeze.com/general-news/20140226/airport-workers-death-at-lax-will-be-investigated-by-cal-osha", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.3553842, 
+                    42.2161722
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Detroit Metropolitan Airport", 
+                "2. Address": "Detroit Metropolitan Wayne County Airport (DTW), Detroit, MI 48242, USA", 
+                "3. Accident Date": "9/5/14", 
+                "5. Company": "American Airlines", 
+                "6. Investigated by": "", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://www.freep.com/article/20140905/NEWS02/309050156/metro-airport-accident-employee", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.661251, 
+                    39.055222
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Cincinatti/Northern Kentucky International Airport", 
+                "2. Address": "Cincinnati/Northern Kentucky International Airport (CVG), 2939 Terminal Drive, Hebron, KY 41048, USA", 
+                "3. Accident Date": "2001-2006", 
+                "5. Company": "", 
+                "6. Investigated by": "not NTSB or FAA", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://www.gao.gov/assets/270/269675.pdf", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6683922, 
+                    39.1774042
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Baltimore/Washington International Airport", 
+                "2. Address": "Baltimore/Washington International Thurgood Marshall Airport, Baltimore, MD 21240, USA", 
+                "3. Accident Date": "2001-2006", 
+                "5. Company": "", 
+                "6. Investigated by": "not NTSB or FAA", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://www.gao.gov/assets/270/269675.pdf", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.862343, 
+                    45.772503
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Scappoose Industrial Airpark Airport", 
+                "2. Address": "Scappoose Industrial Airpark (SPB), Scappoose, OR 97056, USA", 
+                "3. Accident Date": "2001-2006", 
+                "5. Company": "", 
+                "6. Investigated by": "not NTSB or FAA", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://www.gao.gov/assets/270/269675.pdf", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.83646660000001, 
+                    32.9699719
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Addison Airport", 
+                "2. Address": "Addison Airport (ADS), 16051 Addison Road #220, Addison, TX 75001, USA", 
+                "3. Accident Date": "2001-2006", 
+                "5. Company": "", 
+                "6. Investigated by": "not NTSB or FAA", 
+                "7. Unique ID": "", 
+                "9. Source URL": "http://www.gao.gov/assets/270/269675.pdf", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.4179324, 
+                    36.778261
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Posno-Kern County Airport", 
+                "2. Address": "California, USA", 
+                "3. Accident Date": "11/9/07", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: LAX08FA028; NTSB Event Id: 20071113X01789", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20071113X01789&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.09803269999999, 
+                    44.0604985
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Knox County Regional Airport", 
+                "2. Address": "Knox County Regional Airport (RKD), 19 Terminal Lane, Owls Head, ME 04854, USA", 
+                "3. Accident Date": "11/16/12", 
+                "5. Company": "", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: ERA13FA059; NTSB Event Id: 20121116X95412", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20121116X95412&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -152.493851, 
+                    57.749966
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "1. Airport Name": "Kodiak Airport", 
+                "2. Address": "Kodiak Airport, 1427 Airport Way, Kodiak, AK 99615, USA", 
+                "3. Accident Date": "1/5/08", 
+                "5. Company": "Servant Air, Inc.", 
+                "6. Investigated by": "NTSB", 
+                "7. Unique ID": "NTSB Accident Id: ANC08MA038; NTSB Event Id: 20080116X00063", 
+                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20080116X00063&key=1", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "circle"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

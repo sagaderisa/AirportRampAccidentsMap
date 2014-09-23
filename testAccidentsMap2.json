@@ -3,27 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -78.9995375, 
-                    -2.9086971
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "1. Airport Name": "Unknown or unnamed airport", 
-                "2. Address": "GM Laboratorio Cl\u00ednico, Yamancay Los Fresnos, Cuenca, Ecuador", 
-                "3. Accident Date": "3/20/01", 
-                "5. Company": "", 
-                "6. Investigated by": "NTSB", 
-                "7. Unique ID": "NTSB Accident Id: FTW01LA081", 
-                "9. Source URL": "http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20010327X00654&key=1", 
-                "marker-color": "#ff0000", 
-                "marker-symbol": "circle"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     -74.17820999999999, 
                     40.68987
                 ], 
